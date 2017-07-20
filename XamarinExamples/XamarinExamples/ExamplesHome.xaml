@@ -11,7 +11,38 @@
         <Button
             HorizontalOptions="FillAndExpand"
             VerticalOptions="Center"
-            Text="Tutorial 1"/>
+            Text="Rotated Text Page"
+            Clicked="RotatedClicked"/>
+
+        <Button
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="Center"
+            Text="Rotated Text Color Page"
+            Clicked="RotatedColorClicked"/>
+
+        <Button
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="Center"
+            Text="Rotation Event Page"
+            Clicked="RotationEventClicked"/>
+        
+        <Button
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="Center"
+            Text="Rotation Event Binding"
+            Clicked="RotationEventBindingClicked"/>
+
+        <Button
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="Center"
+            Text="Switch Page"
+            Clicked="SwitchClicked"/>
+
+        <Button
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="Center"
+            Text="Button Enabler Page"
+            Clicked="SwitchBindingClicked"/>
 
     </StackLayout>
 </ContentPage>

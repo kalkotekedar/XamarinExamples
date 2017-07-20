@@ -14,6 +14,7 @@ EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		XamarinExamples\XamarinExamples\XamarinExamples.projitems*{0fb0f478-0938-4eeb-92db-71d39530412e}*SharedItemsImports = 4
+		XamarinExamples\XamarinExamples\XamarinExamples.projitems*{2f5bcb5e-c42f-40b8-8166-9690ccec1b8e}*SharedItemsImports = 4
 		XamarinExamples\XamarinExamples\XamarinExamples.projitems*{8dd4ccb2-807d-44f9-9f34-09b0c4885d10}*SharedItemsImports = 13
 		XamarinExamples\XamarinExamples\XamarinExamples.projitems*{c00a2a6a-f1de-4fe2-97c6-e5de5a5e50af}*SharedItemsImports = 4
 	EndGlobalSection

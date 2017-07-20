@@ -21,14 +21,14 @@ E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.Xml.Linq.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.Runtime.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.ComponentModel.dll
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.Reflection.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.Collections.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.Diagnostics.Debug.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.ObjectModel.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.Globalization.dll
-E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.ComponentModel.dll
-E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
-E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.Reflection.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.Linq.Expressions.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.IO.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.Dynamic.Runtime.dll

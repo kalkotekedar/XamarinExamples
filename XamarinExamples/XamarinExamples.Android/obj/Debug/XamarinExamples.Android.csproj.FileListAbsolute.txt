@@ -65,5 +65,11 @@ E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\XamarinExamples.Android.dll.mdb
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\XamarinExamples.Droid.RotatedTextPage.xaml.g.cs
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\XamarinExamples.Droid.RotatedTextColorPage.xaml.g.cs
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\XamarinExamples.Droid.RotationEventPage.xaml.g.cs
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\XamarinExamples.Droid.RotatingEventBinding.xaml.g.cs
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\XamarinExamples.Droid.SwitchPage.xaml.g.cs
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\XamarinExamples.Droid.ButtonEnabler.xaml.g.cs
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\XamarinExamples.Android.dll.mdb
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\XamarinExamples.Android.dll.mdb
