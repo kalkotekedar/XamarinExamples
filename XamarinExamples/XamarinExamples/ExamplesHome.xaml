@@ -44,5 +44,11 @@
             Text="Button Enabler Page"
             Clicked="SwitchBindingClicked"/>
 
+        <Button
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="Center"
+            Text="API Call Page"
+            Clicked="ApiCallClicked"/>
+
     </StackLayout>
 </ContentPage>

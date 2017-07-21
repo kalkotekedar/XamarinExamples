@@ -9,24 +9,22 @@
 //------------------------------------------------------------------------------
 
 namespace XamarinExamples {
-    using System;
-    using Xamarin.Forms;
-    using Xamarin.Forms.Xaml;
     
     
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\Xamrin Apps\\XamarinExamples\\XamarinExamples\\XamarinExamples\\SwitchPage.xaml")]
     public partial class SwitchPage : global::Xamarin.Forms.ContentPage {
         
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Label ColoredLabel;
         
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Label DisplayLabel;
         
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            this.LoadFromXaml(typeof(SwitchPage));
-            ColoredLabel = this.FindByName<global::Xamarin.Forms.Label>("ColoredLabel");
-            DisplayLabel = this.FindByName<global::Xamarin.Forms.Label>("DisplayLabel");
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(SwitchPage));
+            ColoredLabel = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "ColoredLabel");
+            DisplayLabel = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "DisplayLabel");
         }
     }
 }

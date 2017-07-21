@@ -9,12 +9,18 @@
     <Import_RootNamespace>XamarinExamples</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)APICallWeather.xaml.cs">
+      <DependentUpon>APICallWeather.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Service\Constant.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ExamplesHome.xaml.cs">
       <DependentUpon>ExamplesHome.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Model\WeatherDetails.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)RotatedTextColorPage.xaml.cs">
       <DependentUpon>RotatedTextColorPage.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -35,6 +41,7 @@
       <DependentUpon>ButtonEnabler.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Service\APIService.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)SwitchPage.xaml.cs">
       <DependentUpon>SwitchPage.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -82,6 +89,12 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="$(MSBuildThisFileDirectory)ButtonEnabler.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)APICallWeather.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>

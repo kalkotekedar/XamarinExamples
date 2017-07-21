@@ -39,5 +39,9 @@ namespace XamarinExamples
         {
             Navigation.PushAsync(new ButtonEnabler());
         }
+
+        private void ApiCallClicked(object sender, EventArgs e) {
+            Navigation.PushAsync(new APICallWeather());
+        }
     }
 }

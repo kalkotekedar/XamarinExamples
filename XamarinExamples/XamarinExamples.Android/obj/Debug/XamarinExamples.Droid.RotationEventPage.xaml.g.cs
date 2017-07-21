@@ -9,24 +9,23 @@
 //------------------------------------------------------------------------------
 
 namespace XamarinExamples {
-    using System;
-    using Xamarin.Forms;
-    using Xamarin.Forms.Xaml;
     
     
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\Xamrin Apps\\XamarinExamples\\XamarinExamples\\XamarinExamples\\RotationEventPage." +
+        "xaml")]
     public partial class RotationEventPage : global::Xamarin.Forms.ContentPage {
         
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Label RotatingLabel;
         
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Label SliderValueDisplay;
         
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            this.LoadFromXaml(typeof(RotationEventPage));
-            RotatingLabel = this.FindByName<global::Xamarin.Forms.Label>("RotatingLabel");
-            SliderValueDisplay = this.FindByName<global::Xamarin.Forms.Label>("SliderValueDisplay");
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(RotationEventPage));
+            RotatingLabel = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "RotatingLabel");
+            SliderValueDisplay = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "SliderValueDisplay");
         }
     }
 }

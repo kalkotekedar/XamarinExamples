@@ -9,16 +9,15 @@
 //------------------------------------------------------------------------------
 
 namespace XamarinExamples {
-    using System;
-    using Xamarin.Forms;
-    using Xamarin.Forms.Xaml;
     
     
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\Xamrin Apps\\XamarinExamples\\XamarinExamples\\XamarinExamples\\RotatedTextColorPa" +
+        "ge.xaml")]
     public partial class RotatedTextColorPage : global::Xamarin.Forms.ContentPage {
         
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            this.LoadFromXaml(typeof(RotatedTextColorPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(RotatedTextColorPage));
         }
     }
 }
