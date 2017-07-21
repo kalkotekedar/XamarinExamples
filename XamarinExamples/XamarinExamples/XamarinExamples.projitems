@@ -41,7 +41,6 @@
       <DependentUpon>ButtonEnabler.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)Service\APIService.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)SwitchPage.xaml.cs">
       <DependentUpon>SwitchPage.xaml</DependentUpon>
       <SubType>Code</SubType>
