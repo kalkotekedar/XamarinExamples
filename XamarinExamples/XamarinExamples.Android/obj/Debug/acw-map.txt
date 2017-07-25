@@ -2,6 +2,10 @@ XamarinExamples.Droid.MainActivity, XamarinExamples.Android;md52b1de10f6b5be26c3
 XamarinExamples.Droid.MainActivity, XamarinExamples.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52b1de10f6b5be26c38a07dfcc6b80a07.MainActivity
 XamarinExamples.Droid.MainActivity;md52b1de10f6b5be26c38a07dfcc6b80a07.MainActivity
 xamarinexamples.droid.MainActivity;md52b1de10f6b5be26c38a07dfcc6b80a07.MainActivity
+XamarinExamples.Droid.SplashScreen, XamarinExamples.Android;md52b1de10f6b5be26c38a07dfcc6b80a07.SplashScreen
+XamarinExamples.Droid.SplashScreen, XamarinExamples.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52b1de10f6b5be26c38a07dfcc6b80a07.SplashScreen
+XamarinExamples.Droid.SplashScreen;md52b1de10f6b5be26c38a07dfcc6b80a07.SplashScreen
+xamarinexamples.droid.SplashScreen;md52b1de10f6b5be26c38a07dfcc6b80a07.SplashScreen
 Android.Support.Design.Widget.Snackbar/SnackbarActionClickImplementor, Xamarin.Android.Support.Design;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar+SnackbarActionClickImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar.SnackbarActionClickImplementor;android.support.design.widget.Snackbar_SnackbarActionClickImplementor

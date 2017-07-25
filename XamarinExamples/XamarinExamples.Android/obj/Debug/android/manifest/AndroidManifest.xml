@@ -5,8 +5,9 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-  <application android:label="XamarinExamples.Android" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
-    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="XamarinExamples" android:theme="@style/MainTheme" android:name="md52b1de10f6b5be26c38a07dfcc6b80a07.MainActivity">
+  <application android:label="XamarinExamples.Android" android:icon="@drawable/icon" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="XamarinExamples" android:theme="@style/MainTheme" android:name="md52b1de10f6b5be26c38a07dfcc6b80a07.MainActivity" />
+    <activity android:label="SplashScreen" android:noHistory="true" android:theme="@style/MainTheme.Splash" android:name="md52b1de10f6b5be26c38a07dfcc6b80a07.SplashScreen">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
