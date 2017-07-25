@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 
 namespace XamarinExamples.Droid
 {
-    [Activity(Label = "SplashScreen", MainLauncher = true, Theme = "@style/MainTheme.Splash", NoHistory = true)]
+    [Activity(Label = "Xamarin Examples", Icon = "@drawable/launcher", MainLauncher = true, Theme = "@style/MainTheme.Splash", NoHistory = true)]
     public class SplashScreen : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
