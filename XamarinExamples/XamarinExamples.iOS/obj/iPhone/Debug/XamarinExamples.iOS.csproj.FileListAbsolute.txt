@@ -1,0 +1,14 @@
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.iOS\obj\iPhone\Debug\optimized\
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.iOS\obj\iPhone\Debug\XamarinExamples.iOS.csprojResolveAssemblyReference.cache
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.iOS\obj\iPhone\Debug\XamarinExamples.iOS.App.xaml.g.cs
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.iOS\obj\iPhone\Debug\XamarinExamples.iOS.View.RotatedTextPage.xaml.g.cs
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.iOS\obj\iPhone\Debug\XamarinExamples.iOS.View.RotatedTextColorPage.xaml.g.cs
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.iOS\obj\iPhone\Debug\XamarinExamples.iOS.View.RotationEventPage.xaml.g.cs
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.iOS\obj\iPhone\Debug\XamarinExamples.iOS.View.RotatingEventBinding.xaml.g.cs
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.iOS\obj\iPhone\Debug\XamarinExamples.iOS.View.SwitchPage.xaml.g.cs
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.iOS\obj\iPhone\Debug\XamarinExamples.iOS.View.APICallWeather.xaml.g.cs
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.iOS\obj\iPhone\Debug\XamarinExamples.iOS.HomePage.xaml.g.cs
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.iOS\obj\iPhone\Debug\XamarinExamples.iOS.View.ButtonEnabler.xaml.g.cs

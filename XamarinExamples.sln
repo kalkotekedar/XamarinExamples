@@ -134,11 +134,14 @@ Global
 		{0FB0F478-0938-4EEB-92DB-71D39530412E}.AppStore|x64.ActiveCfg = AppStore|iPhone
 		{0FB0F478-0938-4EEB-92DB-71D39530412E}.AppStore|x86.ActiveCfg = AppStore|iPhone
 		{0FB0F478-0938-4EEB-92DB-71D39530412E}.Debug|Any CPU.ActiveCfg = Debug|iPhone
+		{0FB0F478-0938-4EEB-92DB-71D39530412E}.Debug|Any CPU.Build.0 = Debug|iPhone
+		{0FB0F478-0938-4EEB-92DB-71D39530412E}.Debug|Any CPU.Deploy.0 = Debug|iPhone
 		{0FB0F478-0938-4EEB-92DB-71D39530412E}.Debug|ARM.ActiveCfg = Debug|iPhone
 		{0FB0F478-0938-4EEB-92DB-71D39530412E}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{0FB0F478-0938-4EEB-92DB-71D39530412E}.Debug|iPhone.Build.0 = Debug|iPhone
 		{0FB0F478-0938-4EEB-92DB-71D39530412E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
 		{0FB0F478-0938-4EEB-92DB-71D39530412E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{0FB0F478-0938-4EEB-92DB-71D39530412E}.Debug|iPhoneSimulator.Deploy.0 = Debug|iPhoneSimulator
 		{0FB0F478-0938-4EEB-92DB-71D39530412E}.Debug|x64.ActiveCfg = Debug|iPhone
 		{0FB0F478-0938-4EEB-92DB-71D39530412E}.Debug|x86.ActiveCfg = Debug|iPhone
 		{0FB0F478-0938-4EEB-92DB-71D39530412E}.Release|Any CPU.ActiveCfg = Release|iPhone

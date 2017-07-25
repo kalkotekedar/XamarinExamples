@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Rotated Text Color Page"
+             x:Class="XamarinExamples.View.RotatedTextColorPage">
+
+    <Grid>
+        <Grid.Resources>
+            <ResourceDictionary>
+                <Style TargetType="Label">
+                    <Setter Property="Text" Value="      Kedar"/>
+                    <Setter Property="FontSize" Value="32"/>
+                    <Setter Property="Grid.Column" Value="1"/>
+                    <Setter Property="HorizontalOptions" Value="Start"/>
+                    <Setter Property="VerticalOptions" Value="Center"/>
+                    <Setter Property="AnchorX" Value="0"/>
+                </Style>
+            </ResourceDictionary>
+        </Grid.Resources>
+
+        <Label Rotation="0.00" TextColor="#FF0000"/>
+        <Label Rotation="22.5" TextColor="#FF7F00"/>
+        <Label Rotation="45.0" TextColor="#FFFF00"/>
+        <Label Rotation="67.5" TextColor="#00FF00"/>
+        <Label Rotation="90.0" TextColor="#0000FF"/>
+        <Label Rotation="112.5" TextColor="#4B0082"/>
+        <Label Rotation="135.0" TextColor="#9400D3"/>
+        <Label Rotation="157.0" TextColor="#FF0000"/>
+        <Label Rotation="180.0" TextColor="#FF7F00"/>
+        <Label Rotation="202.0" TextColor="#FFFF00"/>
+        <Label Rotation="225.0" TextColor="#00FF00"/>
+        <Label Rotation="246.5" TextColor="#0000FF"/>
+        <Label Rotation="270.0" TextColor="#4B0082"/>
+        <Label Rotation="292.5" TextColor="#9400D3"/>
+        <Label Rotation="315.0" TextColor="#FF0000"/>
+        <Label Rotation="337.5" TextColor="#FF7F00"/>
+    </Grid>
+</ContentPage>

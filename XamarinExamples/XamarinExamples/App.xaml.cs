@@ -12,8 +12,8 @@ namespace XamarinExamples
 		public App ()
 		{
 			InitializeComponent();
-
-			MainPage = new NavigationPage(new ExamplesHome());
+            
+            MainPage = new HomePage();
 		}
 
 		protected override void OnStart ()

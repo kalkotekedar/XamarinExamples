@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Button Enabler"
+             x:Class="XamarinExamples.View.ButtonEnabler">
+
+    <StackLayout
+        Spacing="10">
+
+        <Entry
+            x:Name="InputText"
+            Text=""
+            FontSize="Medium"
+            Keyboard="Url"
+            HorizontalOptions="CenterAndExpand"
+            Placeholder="Enter to Enable Button"/>
+
+        <Button
+            Text="Save"
+            FontSize="Medium"
+            HorizontalOptions="Center">
+            <Button.Triggers>
+                <DataTrigger TargetType="Button"
+                             Binding="{Binding Source={x:Reference InputText}, Path=Text.Length}"
+                             Value="0">
+                    <Setter Property="IsEnabled" Value="False"/>
+                </DataTrigger>
+            </Button.Triggers>
+        </Button>
+
+    </StackLayout>
+</ContentPage>

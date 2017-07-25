@@ -9,93 +9,100 @@
     <Import_RootNamespace>XamarinExamples</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="$(MSBuildThisFileDirectory)APICallWeather.xaml.cs">
+    <Compile Include="$(MSBuildThisFileDirectory)View\APICallWeather.xaml.cs">
       <DependentUpon>APICallWeather.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)Service\Constant.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)ExamplesHome.xaml.cs">
-      <DependentUpon>ExamplesHome.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)Model\WeatherDetails.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)RotatedTextColorPage.xaml.cs">
-      <DependentUpon>RotatedTextColorPage.xaml</DependentUpon>
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)RotatedTextPage.xaml.cs">
-      <DependentUpon>RotatedTextPage.xaml</DependentUpon>
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)RotatingEventBinding.xaml.cs">
-      <DependentUpon>RotatingEventBinding.xaml</DependentUpon>
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)RotationEventPage.xaml.cs">
-      <DependentUpon>RotationEventPage.xaml</DependentUpon>
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)ButtonEnabler.xaml.cs">
+    <Compile Include="$(MSBuildThisFileDirectory)View\ButtonEnabler.xaml.cs">
       <DependentUpon>ButtonEnabler.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)SwitchPage.xaml.cs">
+    <Compile Include="$(MSBuildThisFileDirectory)Model\DrawerMenuItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Service\Constant.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\WeatherDetails.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)View\RotatedTextColorPage.xaml.cs">
+      <DependentUpon>RotatedTextColorPage.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)View\RotatedTextPage.xaml.cs">
+      <DependentUpon>RotatedTextPage.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)View\RotatingEventBinding.xaml.cs">
+      <DependentUpon>RotatingEventBinding.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)View\RotationEventPage.xaml.cs">
+      <DependentUpon>RotationEventPage.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)HomePage.xaml.cs">
+      <DependentUpon>HomePage.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)View\SwitchPage.xaml.cs">
       <DependentUpon>SwitchPage.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="$(MSBuildThisFileDirectory)ExamplesHome.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-    </EmbeddedResource>
     <EmbeddedResource Include="$(MSBuildThisFileDirectory)App.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="$(MSBuildThisFileDirectory)RotatedTextPage.xaml">
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)View\RotatedTextPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="$(MSBuildThisFileDirectory)RotatedTextColorPage.xaml">
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)View\RotatedTextColorPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="$(MSBuildThisFileDirectory)RotationEventPage.xaml">
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)View\RotationEventPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="$(MSBuildThisFileDirectory)RotatingEventBinding.xaml">
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)View\RotatingEventBinding.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="$(MSBuildThisFileDirectory)SwitchPage.xaml">
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)View\SwitchPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="$(MSBuildThisFileDirectory)ButtonEnabler.xaml">
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)View\APICallWeather.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="$(MSBuildThisFileDirectory)APICallWeather.xaml">
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)HomePage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)View\ButtonEnabler.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)View\" />
   </ItemGroup>
 </Project>
