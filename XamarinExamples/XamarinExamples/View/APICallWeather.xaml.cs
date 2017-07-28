@@ -18,10 +18,11 @@ namespace XamarinExamples.View
             Tempratures = new ObservableCollection<string> { "" };
             BindingContext = this;
 
-        
             ButtonFetch.Clicked += async (sender, e) =>
             {
+                BusyPage(true);
                 await GetFlurlWeatherAsync();
+                BusyPage(false);
             };
         }
 
@@ -48,6 +49,12 @@ namespace XamarinExamples.View
             {
                 await DisplayAlert("Warnning", "Please enter the city name to get weather details", "OK");
             }
+        }
+
+        public void BusyPage(bool status)
+        {
+            ButtonFetch.IsEnabled = !status;
+            progressView.IsRunning = status;
         }
 
         public ObservableCollection<string> Tempratures { get; private set; }

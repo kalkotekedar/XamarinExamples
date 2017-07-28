@@ -64,3 +64,4 @@ E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.Collections.Concurrent.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\System.Runtime.InteropServices.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\Mono.CSharp.dll
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\Mono.Security.dll

@@ -19,6 +19,8 @@
             Text="Fetch Weather" 
             x:Name="ButtonFetch"/>
 
+        <ActivityIndicator x:Name="progressView"/>
+
         <StackLayout
             HorizontalOptions="Center"
             Orientation="Horizontal">
