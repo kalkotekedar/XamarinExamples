@@ -15,9 +15,14 @@ E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.Forms.Core.dll
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.Forms.Maps.Android.dll
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.Forms.Maps.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.Forms.Platform.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Flurl.xml
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Flurl.Http.xml
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\FormsViewGroup.pdb
@@ -26,6 +31,7 @@ E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.Forms.Core.pdb
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.Forms.Core.xml
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.Forms.Maps.xml
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
@@ -40,6 +46,7 @@ E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\XamarinExamples.Droid.View.APICallWeather.xaml.g.cs
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\XamarinExamples.Droid.HomePage.xaml.g.cs
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\XamarinExamples.Droid.View.ButtonEnabler.xaml.g.cs
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\XamarinExamples.Droid.View.MVVMDemo.xaml.g.cs
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\XamarinExamples.Android.dll
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\XamarinExamples.Android.pdb
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\bin\XamarinExamples.Android.apk
@@ -52,10 +59,6 @@ E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\res\drawable\xamarin.png
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\R.cs.flag
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\uploadflags.txt
-E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\XamarinExamples.Android.dll.mdb
-E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
-E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
-E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\XamarinExamples.Android.dll.mdb
 E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\XamarinExamples.Android.csprojResolveAssemblyReference.cache
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\bin\Debug\XamarinExamples.Android.dll.mdb
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.Android\obj\Debug\android\assets\XamarinExamples.Android.dll.mdb

@@ -11,14 +11,13 @@ using XamarinExamples.View;
 
 namespace XamarinExamples
 {
-	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class HomePage : MasterDetailPage
-	{
+    public partial class HomePage : MasterDetailPage
+    {
         public List<DrawerMenuItem> MenuItemList { get; set; }
 
-		public HomePage ()
-		{
-			InitializeComponent ();
+        public HomePage()
+        {
+            InitializeComponent();
 
             MenuItemList = new List<DrawerMenuItem>();
 
@@ -29,6 +28,7 @@ namespace XamarinExamples
             var Page5 = new DrawerMenuItem() { MenuText = "Switch", MenuIcon = "Icon.png", TargetType = typeof(SwitchPage) };
             var Page6 = new DrawerMenuItem() { MenuText = "Button Enabler", MenuIcon = "Icon.png", TargetType = typeof(ButtonEnabler) };
             var Page7 = new DrawerMenuItem() { MenuText = "API Call (Weather)", MenuIcon = "Icon.png", TargetType = typeof(APICallWeather) };
+            var Page8 = new DrawerMenuItem() { MenuText = "MVVM Demo", MenuIcon = "Icon.png", TargetType = typeof(MVVMDemo) };
 
             MenuItemList.Add(Page1);
             MenuItemList.Add(Page2);
@@ -37,10 +37,11 @@ namespace XamarinExamples
             MenuItemList.Add(Page5);
             MenuItemList.Add(Page6);
             MenuItemList.Add(Page7);
+            MenuItemList.Add(Page8);
 
             DrawerMenuItemList.ItemsSource = MenuItemList;
             Detail = new NavigationPage((Page)Activator.CreateInstance(typeof(RotatedTextPage)));
-		}
+        }
 
         private void MenuItemList_ItemSelected(object sender, SelectedItemChangedEventArgs e)
         {

@@ -9,6 +9,7 @@
     <Import_RootNamespace>XamarinExamples</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\ClockViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)View\APICallWeather.xaml.cs">
       <DependentUpon>APICallWeather.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -23,6 +24,10 @@
     <Compile Include="$(MSBuildThisFileDirectory)Model\DrawerMenuItem.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Service\Constant.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Model\WeatherDetails.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)View\MVVMDemo.xaml.cs">
+      <DependentUpon>MVVMDemo.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)View\RotatedTextColorPage.xaml.cs">
       <DependentUpon>RotatedTextColorPage.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -103,6 +108,9 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="$(MSBuildThisFileDirectory)View\" />
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)View\MVVMDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
 </Project>

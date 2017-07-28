@@ -1,0 +1,1 @@
+E:\Xamrin Apps\XamarinExamples\XamarinExamples\XamarinExamples.UWP\XamarinExamples.UWP.csproj;x86
